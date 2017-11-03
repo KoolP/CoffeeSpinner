@@ -1,0 +1,118 @@
+
+
+body {
+text-align: center;
+background-color: grey;
+background: url("media/kahvia.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: 44px;
+  color: snow;
+  padding: 0px;
+}
+h2 {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: 22px;
+  color: snow;
+  padding: 5px;
+  margin-bottom: 0px;
+}
+
+p {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  margin-top: 0px;
+  color: snow;
+}
+
+
+#bigwrapper {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#banner {
+    height: 223px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background-color: red;
+}
+
+#button {
+  height: 130px;
+  width: 130px;
+  border-style: solid;
+  border-color: snow;
+  border-width: 5px;
+  background-color: #4c4c4c;
+  border-radius: 50%;
+  text-align:center;
+  line-height: 40px;
+  cursor: pointer;
+  background: linear-gradient(#b2ac9e, #4c4c4c);
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.9);
+
+}
+
+#button a {
+  display: block;
+  text-decoration: none;
+  color: snow;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display; block;
+}
+
+#bill, #steve, #linus, #mark, #instant, #james, #grace, #richard  {
+  background: snow;
+  border-radius: 20px;
+  width: 70%;
+  margin: auto;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
+  margin-bottom: 20px;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.8);
+
+}
+
+#container {
+  display: inline-block;
+  vertical-align: top;
+  padding: 26px 0 0 5px;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+#name {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: 22px;
+  color: #333333;
+  padding: 5px;
+  margin-bottom: 0px;
+}
+
+#title {
+  color: grey;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+#quote {
+  color: #333333;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
