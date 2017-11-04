@@ -22,7 +22,7 @@ function coffeySpinner() {
 
 //Contact function
 function contact() {
-  alert("Hello! App developed by KoolP & Friends");
+  alert("Hello! App produced by koolsport.se and friends");
 }
 
 //TEST Toggle. Works but the randomizer take a new person the old stays
