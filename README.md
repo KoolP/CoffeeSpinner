@@ -9,4 +9,4 @@ Version 1 - Who will be brewing coffee for us today? Let's randomly choose one f
 Version 2 (branch: dishwashing) - Again a nasty looking kitchen-sink at the office? Whom turn would it be to clean the dishes. Lets use a random generator to point out a winner for the tasks.
 
 Development suggestions and discussion can be posted here:
-- What if the images and text could be posted to a server when adding yourself to the list. As the data of the participants would be placed on the server it would fetched with GET command from the server and the randomizer function would be there and send the data.
+- What if the participant/user images and text could be posted to a server when a user could add herself to the list. As the data of the participants would be placed on the server it would fetched from the server.
