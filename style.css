@@ -72,6 +72,11 @@ clear: both;
   text-align: center;
 }
 
+nav {
+  /*added after trying jquery slide, but tabs merged on top of each*/
+  /*position: relative;*/
+  /*padding-bottom: 3rem;*/
+}
 .tab {
 font-family: 'Helvetica Neue', 'Arial', sans-serif;
 /*display: block;*/
@@ -84,6 +89,10 @@ font-weight: bold;
 margin-right: 1em;
 padding: 0.5em 1em;
 box-shadow: 2px 0px 2px 0 rgba(128, 128, 128, 0.5);
+/*added after trying jquery slide, but tabs merged on top of each*/
+/*display: none;*/
+/*bottom: 0;*/
+/*position: absolute;*/
 }
 
 .tab:hover {
