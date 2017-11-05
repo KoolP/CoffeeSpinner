@@ -24,7 +24,6 @@ function coffeySpinner() {
     } else {
       showWinner.className = "hide";
     }
-
 }
 
 
