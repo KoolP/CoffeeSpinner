@@ -28,7 +28,6 @@ p {
   color: snow;
 }
 
-
 #bigwrapper {
     width: 50%;
     margin: auto;
@@ -42,8 +41,12 @@ p {
     text-align: center;
     padding-top: 20px;
     margin-bottom: 40px;
-    border-radius: 20px;
+    border-radius: 2px 50px 16px;
     background-color: red;
+}
+
+#herobanner {
+clear: both;
 }
 
 #button {
@@ -67,6 +70,24 @@ p {
   text-decoration: none;
   color: snow;
   text-align: center;
+}
+
+.tab {
+font-family: 'Helvetica Neue', 'Arial', sans-serif;
+/*display: block;*/
+background-color: white;
+border-top-right-radius: 0.5em;
+border-top-left-radius: 0.5em;
+color: red;
+float: left;
+font-weight: bold;
+margin-right: 1em;
+padding: 0.5em 1em;
+box-shadow: 2px 0px 2px 0 rgba(128, 128, 128, 0.5);
+}
+
+.tab:hover {
+    background-color: #ddd;
 }
 
 .hide {
