@@ -73,6 +73,7 @@ clear: both;
 }
 
 nav {
+  margin-top: 40px;
   /*added after trying jquery slide, but tabs merged on top of each*/
   /*position: relative;
   padding-bottom: 3rem;*/
