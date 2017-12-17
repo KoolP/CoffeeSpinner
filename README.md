@@ -10,3 +10,7 @@ Version 2 (branch: dishwashing) - Again a nasty looking kitchen-sink at the offi
 
 Development ideas:
 - What if the participant/user images and text could be posted to a server when a user could add herself to the list. As the data of the participants would be placed on the server it would fetched from the server.
+
+
+
+<!-- App created by Patrik Rikama Hinnenberg -->
